@@ -1,3 +1,6 @@
+# Restaurant Review App
+## Using Django and ReactJS
+
 There is an SQL dump file there incase you want to run the site locally.
 
 To run this app cd into the backend folder and run:

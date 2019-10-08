@@ -6,7 +6,7 @@ To run this app cd into the backend folder and run:
 
 ###Django Backend API
 
-![backend](images/djangoRest.png)
+![backend](images/djangoRest.PNG)
 
 
 Then cd into the frontend folder and run:
@@ -15,4 +15,4 @@ Then cd into the frontend folder and run:
 
 ###Webapp at Restaurants detail view pk=1
 
-![frontend](images/restaurant1.png)
+![frontend](images/restaurant1.PNG)

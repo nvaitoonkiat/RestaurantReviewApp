@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+}
+.homepage-picture {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.container2 {
+  background-image: url("../website-mock-up/Website Prototype2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  width: 100%;
+  height: 400px;
+
+  padding: 0;
+  margin: 0;
+}
+#logo {
+  width: 200px !important;
+  height: 200px !important;
+  display: block;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.bottomBar {
+  height: 20px;
+  color: black;
+  text-align: right;
+  margin-top: 30px !important;
+  font-size: 95%;
+  z-index: 9999;
+  background: white;
+}

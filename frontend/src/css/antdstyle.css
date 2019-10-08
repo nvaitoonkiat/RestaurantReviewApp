@@ -1,0 +1,5 @@
+#Antdliststyle {
+  @body-background: white !important;
+  @list-footer-background: red;
+  @component-background: #fff;
+}

@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "Fullstack": "foodieco",
+    "default": "foodieco"
+  }
+}
